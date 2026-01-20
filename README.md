@@ -51,3 +51,4 @@ The system captures hand gestures from video input, extracts 543 key landmarks u
 
 - **Accuracy**: Over 80% on validation data.
 - **Robustness**: Recognizes hand gestures across varied lighting and hand positions.
+- Application Link - https://huggingface.co/spaces/Mohan312/Violence_detection
